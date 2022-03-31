@@ -1,0 +1,110 @@
+﻿body {
+    background-color : lightsteelblue;
+}
+
+.diView {
+    text-align: center;
+    background-color: dodgerblue;
+    height: 149px;
+    padding: 2px;
+    font-family: fantasy;
+    width: 721px;
+    margin-left: 350px;
+    margin-top: 38px;
+    border-radius: 37px;
+    font-size: 47px;
+    color: white;
+}
+
+.row {
+    margin: 50px;
+}
+
+.h1, h1 {
+    font-size: calc(1.375rem + 1.5vw);
+    padding: 20px;
+    margin-top: 11px;
+}
+
+.font {
+    font-family: fantasy;
+    color: blue;
+    font-size : 20px;
+}
+
+.shift {
+    padding-left : 300px;
+}
+
+.hvr:hover {
+    font-size : 18px;
+}
+
+
+element.style {
+}
+
+.AP {
+    margin-top: 27px;
+    margin-bottom: 1rem;
+    font-size: 200px;
+    background-color: #e7e7e7;
+    width: 0px;
+    color: blue;
+    font-family: cursive;
+}
+
+.MyFooter {
+    margin-bottom: 1rem;
+    text-align: center;
+    font-size: x-large;
+    height: 30px;
+    padding: -3px;
+    color: white;
+    font-family: cursive;
+}
+
+.gridDiv {
+    margin-left: 200px;
+}
+
+caption {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    color: white;
+    text-align: left;
+    font-size: 26px;
+    font : bold;
+}
+
+tbody, td, tfoot, th, thead, tr {
+    border-color: inherit;
+    border-style: solid;
+    border-width: 0;
+    font-size: 25px;
+}
+
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+    width: 245px;
+    margin-left: 457px;
+    height: 60px;
+    font-family: cursive;
+    background-color: dodgerblue;
+    color: white;
+    font-weight: bold;
+}
+
+input#ContentPlaceHolder1_Button1 {
+}
+
+.row > * {
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-top: var(--bs-gutter-y);
+    margin: 4px;
+}
