@@ -8,7 +8,6 @@
     <br /><br />
     <div class="row">
     <asp:Button ID="Button1" runat="server" Text="SignUp" OnClick="Button1_Click"/><br /><br />
-    <asp:Button ID="Button2" runat="server" Text="SignIn Admins" />
-    <asp:Button ID="Button3" runat="server" Text="SignIn Users" />
+    <asp:Button ID="Button3" runat="server" Text="SignIn Users" OnClick="Button3_Click" />
     </div>
 </asp:Content>

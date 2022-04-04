@@ -5,14 +5,14 @@
 .diView {
     text-align: center;
     background-color: dodgerblue;
-    height: 149px;
-    padding: 2px;
+    height: 94px;
+    padding: 9px;
     font-family: fantasy;
-    width: 721px;
-    margin-left: 350px;
+    width: 768px;
+    margin-left: 245px;
     margin-top: 38px;
     border-radius: 37px;
-    font-size: 47px;
+    font-size: 42px;
     color: white;
 }
 

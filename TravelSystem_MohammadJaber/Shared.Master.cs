@@ -9,9 +9,11 @@ namespace TravelSystem_MohammadJaber
 {
     public partial class Shared : System.Web.UI.MasterPage
     {
-        protected void Page_Load(object sender, EventArgs e)
+        protected void Page_Init(object sender, EventArgs e)
         {
-
+            if (!(Page.Request.Url.AbsolutePath.ToLower().Contains("signup") ||
+                Page.Request.Url.AbsolutePath.ToLower().Contains("signin")) && Session["Id"] == null)
+                Response.Redirect("SignIn.aspx");
         }
     }
 }
