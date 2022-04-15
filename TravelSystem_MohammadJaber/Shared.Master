@@ -1,8 +1,6 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Shared.master.cs" Inherits="TravelSystem_MohammadJaber.Shared" %>
 
-
 <!DOCTYPE html>
-
 <html>
 <head runat="server">
     <title></title>

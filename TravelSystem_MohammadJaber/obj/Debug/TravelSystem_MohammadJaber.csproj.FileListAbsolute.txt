@@ -57,3 +57,5 @@ E:\ITCtask\TravelSystem_MohammadJaber\TravelSystem_MohammadJaber\obj\Debug\Trave
 E:\ITCtask\TravelSystem_MohammadJaber\TravelSystem_MohammadJaber\obj\Debug\TravelSystem_MohammadJaber.csproj.CopyComplete
 E:\ITCtask\TravelSystem_MohammadJaber\TravelSystem_MohammadJaber\obj\Debug\TravelSystem_MohammadJaber.dll
 E:\ITCtask\TravelSystem_MohammadJaber\TravelSystem_MohammadJaber\obj\Debug\TravelSystem_MohammadJaber.pdb
+E:\ITCtask\TravelSystem_MohammadJaber\TravelSystem_MohammadJaber\bin\log4net.dll
+E:\ITCtask\TravelSystem_MohammadJaber\TravelSystem_MohammadJaber\bin\log4net.xml
