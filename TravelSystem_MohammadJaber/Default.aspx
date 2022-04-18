@@ -6,7 +6,7 @@
     <div class="diView">Welcome To International Travel Company</div>
     <hr />
     <br /><br />
-    <div class="row">
+    <div class="defaultpage">
     <asp:Button ID="Button1" runat="server" Text="SignUp" OnClick="Button1_Click"/><br /><br />
     <asp:Button ID="Button3" runat="server" Text="SignIn Users" OnClick="Button3_Click" />
     </div>
